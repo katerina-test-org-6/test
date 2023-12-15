@@ -1,0 +1,7 @@
+kind: Component
+metadata:
+  displayName: test-comp
+spec:
+  type:
+    name: doc
+    lifecycle: experiment
